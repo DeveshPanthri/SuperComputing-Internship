@@ -1,6 +1,6 @@
 ============================================================
   WEEKLY PROGRESS REPORT
-  Generated: 2026-06-29 12:15
+  Generated: 2026-06-29 18:10
 ============================================================
 
   STUDENT: Student #8
@@ -12,14 +12,14 @@
   Average: 17.7/20
 
   MASTERY LEVELS:
-  Overall Mastery: 14.1%
+  Overall Mastery: 10.8%
   Strongest: fundamentals
-  Weakest: mastery
-    fundamentals    [###########---------] 59%
-    intermediate    [--------------------] 3%
-    advanced        [--------------------] 2%
-    application     [#-------------------] 7%
-    mastery         [--------------------] 0%
+  Weakest: intermediate
+    fundamentals    [########------------] 41%
+    intermediate    [--------------------] 0%
+    advanced        [--------------------] 4%
+    application     [#-------------------] 8%
+    mastery         [--------------------] 1%
 
   RISK STATUS: ON TRACK (0.0% risk)
   Weak Areas:
@@ -27,7 +27,7 @@
 
   WEEKLY GOALS:
     1. Maintain current study routine
-    2. Push mastery mastery above 80%
+    2. Push intermediate mastery above 80%
     3. Try advanced practice problems
     4. Help peers who are struggling
     5. Prepare for upcoming assessments
@@ -52,7 +52,7 @@
     * Complete practice problems (30 min)
     * Watch: Interactive Math Quizzes
     * Self-assessment quiz (15 min)
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Tuesday (Day 2) ---
   Focus: Core Review: General Improvement
@@ -62,7 +62,7 @@
     * Complete practice problems (30 min)
     * Watch: Interactive Math Quizzes
     * Self-assessment quiz (15 min)
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Wednesday (Day 3) ---
   Focus: Concept Reinforcement
@@ -70,7 +70,7 @@
   Activities:
     * Practice exercises
     * Review notes
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Thursday (Day 4) ---
   Focus: Concept Reinforcement
@@ -78,7 +78,7 @@
   Activities:
     * Practice exercises
     * Review notes
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Friday (Day 5) ---
   Focus: Integration & Application
@@ -88,7 +88,7 @@
     * Solve mixed-topic problems
     * Create summary notes
     * Explore: Exam Preparation Strategies
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Saturday (Day 6) ---
   Focus: Practice Assessment
@@ -98,7 +98,7 @@
     * Time yourself to simulate exam conditions
     * Review all incorrect answers
     * Update study notes with corrections
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
   --- Sunday (Day 7) ---
   Focus: Review & Plan Ahead
@@ -108,6 +108,6 @@
     * Organize notes and flashcards
     * Set goals for next week
     * Rest and recharge
-  Tip: Focus more on 'mastery' (mastery: 0%)
+  Tip: Focus more on 'intermediate' (mastery: 0%)
 
 ============================================================
