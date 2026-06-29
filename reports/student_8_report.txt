@@ -1,6 +1,6 @@
 ============================================================
   WEEKLY PROGRESS REPORT
-  Generated: 2026-06-29 11:52
+  Generated: 2026-06-29 12:15
 ============================================================
 
   STUDENT: Student #8
@@ -12,13 +12,13 @@
   Average: 17.7/20
 
   MASTERY LEVELS:
-  Overall Mastery: 8.2%
+  Overall Mastery: 14.1%
   Strongest: fundamentals
   Weakest: mastery
-    fundamentals    [######--------------] 30%
-    intermediate    [--------------------] 0%
-    advanced        [--------------------] 1%
-    application     [#-------------------] 10%
+    fundamentals    [###########---------] 59%
+    intermediate    [--------------------] 3%
+    advanced        [--------------------] 2%
+    application     [#-------------------] 7%
     mastery         [--------------------] 0%
 
   RISK STATUS: ON TRACK (0.0% risk)
