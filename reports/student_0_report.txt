@@ -1,6 +1,6 @@
 ============================================================
   WEEKLY PROGRESS REPORT
-  Generated: 2026-06-29 18:10
+  Generated: 2026-06-29 18:17
 ============================================================
 
   STUDENT: Student #0
@@ -12,14 +12,14 @@
   Average: 5.7/20
 
   MASTERY LEVELS:
-  Overall Mastery: 10.2%
+  Overall Mastery: 4.1%
   Strongest: fundamentals
-  Weakest: intermediate
-    fundamentals    [#######-------------] 40%
-    intermediate    [--------------------] 0%
-    advanced        [--------------------] 3%
-    application     [#-------------------] 7%
-    mastery         [--------------------] 1%
+  Weakest: mastery
+    fundamentals    [#-------------------] 8%
+    intermediate    [#-------------------] 7%
+    advanced        [#-------------------] 5%
+    application     [--------------------] 0%
+    mastery         [--------------------] 0%
 
   RISK STATUS: AT RISK (99.3% risk)
   Weak Areas:
@@ -27,7 +27,7 @@
     [HIGH] Period 2 Performance: G2 score: 6/20
 
   WEEKLY GOALS:
-    1. Improve intermediate mastery by 10%
+    1. Improve mastery mastery by 10%
     2. Complete all daily study plan activities
     3. Attend all classes (reduce absences)
     4. Take the weekend practice assessment
@@ -53,7 +53,7 @@
     * Complete practice problems (30 min)
     * Watch: Probability & Combinatorics
     * Self-assessment quiz (15 min)
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Tuesday (Day 2) ---
   Focus: Core Review: Period 1 Performance
@@ -63,7 +63,7 @@
     * Complete practice problems (30 min)
     * Watch: Probability & Combinatorics
     * Self-assessment quiz (15 min)
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Wednesday (Day 3) ---
   Focus: Targeted Practice: Period 2 Performance
@@ -73,7 +73,7 @@
     * Solve 10 practice problems
     * Study: Linear Algebra Complete Course
     * Review mistakes from previous days
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Thursday (Day 4) ---
   Focus: Targeted Practice: Period 2 Performance
@@ -83,7 +83,7 @@
     * Solve 10 practice problems
     * Study: Linear Algebra Complete Course
     * Review mistakes from previous days
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Friday (Day 5) ---
   Focus: Integration & Application
@@ -93,7 +93,7 @@
     * Solve mixed-topic problems
     * Create summary notes
     * Explore: Advanced Calculus Tutorial
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Saturday (Day 6) ---
   Focus: Practice Assessment
@@ -103,7 +103,7 @@
     * Time yourself to simulate exam conditions
     * Review all incorrect answers
     * Update study notes with corrections
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
   --- Sunday (Day 7) ---
   Focus: Review & Plan Ahead
@@ -113,6 +113,6 @@
     * Organize notes and flashcards
     * Set goals for next week
     * Rest and recharge
-  Tip: Focus more on 'intermediate' (mastery: 0%)
+  Tip: Focus more on 'mastery' (mastery: 0%)
 
 ============================================================
