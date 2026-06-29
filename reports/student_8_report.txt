@@ -1,0 +1,113 @@
+============================================================
+  WEEKLY PROGRESS REPORT
+  Generated: 2026-06-29 11:52
+============================================================
+
+  STUDENT: Student #8
+  School: GP | Age: 15 | Gender: M
+
+  GRADE PROGRESSION:
+  G1: 16/20 -> G2: 18/20 -> G3: 19/20
+  Trend: Improving (change: +3)
+  Average: 17.7/20
+
+  MASTERY LEVELS:
+  Overall Mastery: 8.2%
+  Strongest: fundamentals
+  Weakest: mastery
+    fundamentals    [######--------------] 30%
+    intermediate    [--------------------] 0%
+    advanced        [--------------------] 1%
+    application     [#-------------------] 10%
+    mastery         [--------------------] 0%
+
+  RISK STATUS: ON TRACK (0.0% risk)
+  Weak Areas:
+    [LOW] General Improvement: No specific weak areas identified
+
+  WEEKLY GOALS:
+    1. Maintain current study routine
+    2. Push mastery mastery above 80%
+    3. Try advanced practice problems
+    4. Help peers who are struggling
+    5. Prepare for upcoming assessments
+
+  STUDY PLAN: LIGHT
+  1.5h/day, 10.5h/week
+
+============================================================
+
+============================================================
+  PERSONALIZED 7-DAY STUDY PLAN
+  Student ID: 8
+  Intensity: LIGHT
+  Total Hours: 10.5h over 7 days
+============================================================
+
+  --- Monday (Day 1) ---
+  Focus: Core Review: General Improvement
+  Duration: 1.5 hours
+  Activities:
+    * Review fundamentals of General Improvement (No specific weak areas identified)
+    * Complete practice problems (30 min)
+    * Watch: Interactive Math Quizzes
+    * Self-assessment quiz (15 min)
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Tuesday (Day 2) ---
+  Focus: Core Review: General Improvement
+  Duration: 1.5 hours
+  Activities:
+    * Review fundamentals of General Improvement (No specific weak areas identified)
+    * Complete practice problems (30 min)
+    * Watch: Interactive Math Quizzes
+    * Self-assessment quiz (15 min)
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Wednesday (Day 3) ---
+  Focus: Concept Reinforcement
+  Duration: 1.5 hours
+  Activities:
+    * Practice exercises
+    * Review notes
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Thursday (Day 4) ---
+  Focus: Concept Reinforcement
+  Duration: 1.5 hours
+  Activities:
+    * Practice exercises
+    * Review notes
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Friday (Day 5) ---
+  Focus: Integration & Application
+  Duration: 1.5 hours
+  Activities:
+    * Combine concepts from the week
+    * Solve mixed-topic problems
+    * Create summary notes
+    * Explore: Exam Preparation Strategies
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Saturday (Day 6) ---
+  Focus: Practice Assessment
+  Duration: 2.0 hours
+  Activities:
+    * Take a practice test covering all weak areas
+    * Time yourself to simulate exam conditions
+    * Review all incorrect answers
+    * Update study notes with corrections
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Sunday (Day 7) ---
+  Focus: Review & Plan Ahead
+  Duration: 1.0 hours
+  Activities:
+    * Light review of the week's material
+    * Organize notes and flashcards
+    * Set goals for next week
+    * Rest and recharge
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+============================================================

@@ -1,0 +1,119 @@
+============================================================
+  WEEKLY PROGRESS REPORT
+  Generated: 2026-06-29 11:52
+============================================================
+
+  STUDENT: Student #2
+  School: GP | Age: 15 | Gender: F
+
+  GRADE PROGRESSION:
+  G1: 7/20 -> G2: 8/20 -> G3: 10/20
+  Trend: Improving (change: +3)
+  Average: 8.3/20
+
+  MASTERY LEVELS:
+  Overall Mastery: 9.2%
+  Strongest: fundamentals
+  Weakest: mastery
+    fundamentals    [#######-------------] 37%
+    intermediate    [--------------------] 0%
+    advanced        [--------------------] 1%
+    application     [#-------------------] 8%
+    mastery         [--------------------] 0%
+
+  RISK STATUS: ON TRACK (2.1% risk)
+  Weak Areas:
+    [HIGH] Period 1 Performance: G1 score: 7/20
+    [HIGH] Period 2 Performance: G2 score: 8/20
+    [MEDIUM] Past Failures: 3 past class failures
+
+  WEEKLY GOALS:
+    1. Maintain current study routine
+    2. Push mastery mastery above 80%
+    3. Try advanced practice problems
+    4. Help peers who are struggling
+    5. Prepare for upcoming assessments
+
+  STUDY PLAN: INTENSIVE
+  3h/day, 21h/week
+
+============================================================
+
+============================================================
+  PERSONALIZED 7-DAY STUDY PLAN
+  Student ID: 2
+  Intensity: INTENSIVE
+  Total Hours: 21.0h over 7 days
+============================================================
+
+  --- Monday (Day 1) ---
+  Focus: Core Review: Period 1 Performance
+  Duration: 3.0 hours
+  Activities:
+    * Review fundamentals of Period 1 Performance (G1 score: 7/20)
+    * Complete practice problems (30 min)
+    * Watch: Statistics for Beginners PDF
+    * Self-assessment quiz (15 min)
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Tuesday (Day 2) ---
+  Focus: Core Review: Period 1 Performance
+  Duration: 3.0 hours
+  Activities:
+    * Review fundamentals of Period 1 Performance (G1 score: 7/20)
+    * Complete practice problems (30 min)
+    * Watch: Statistics for Beginners PDF
+    * Self-assessment quiz (15 min)
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Wednesday (Day 3) ---
+  Focus: Targeted Practice: Period 2 Performance
+  Duration: 3.0 hours
+  Activities:
+    * Deep dive into Period 2 Performance
+    * Solve 10 practice problems
+    * Study: Linear Algebra Complete Course
+    * Review mistakes from previous days
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Thursday (Day 4) ---
+  Focus: Targeted Practice: Period 2 Performance
+  Duration: 3.0 hours
+  Activities:
+    * Deep dive into Period 2 Performance
+    * Solve 10 practice problems
+    * Study: Linear Algebra Complete Course
+    * Review mistakes from previous days
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Friday (Day 5) ---
+  Focus: Integration & Application
+  Duration: 3.0 hours
+  Activities:
+    * Combine concepts from the week
+    * Solve mixed-topic problems
+    * Create summary notes
+    * Explore: Algebra Practice Problems Set
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Saturday (Day 6) ---
+  Focus: Practice Assessment
+  Duration: 3.5 hours
+  Activities:
+    * Take a practice test covering all weak areas
+    * Time yourself to simulate exam conditions
+    * Review all incorrect answers
+    * Update study notes with corrections
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+  --- Sunday (Day 7) ---
+  Focus: Review & Plan Ahead
+  Duration: 2.5 hours
+  Activities:
+    * Light review of the week's material
+    * Organize notes and flashcards
+    * Set goals for next week
+    * Rest and recharge
+  Tip: Focus more on 'mastery' (mastery: 0%)
+
+============================================================
